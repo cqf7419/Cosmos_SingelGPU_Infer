@@ -1,10 +1,12 @@
 > 😊 This is a Cosmos codebase that supports single-GPU inference and RTMap rendering for private data. 
 
-> ⚠️You need to download the model from the official repository to the `./cosmos_transfer2/checkpoints` directory and the `./assets` directory from the official repository. \
+> ⚠️ How to use code: \
+Plan A: You need to download the model from the official repository to the `./cosmos_transfer2/checkpoints` directory and the `./assets` directory from the official repository. \
 or \
-you can try directly replacing the core code files in the official repository, eg. `./cosmos_transfer2 && ./scripts`
+Plan B: you can try directly replacing the core code files in the official repository, eg. `./cosmos_transfer2 && ./scripts`
 
-> Finally, running it on single A100(80G), you can run `bash infer.sh` 
+> Finally, running it on single A100(80G), you can run `bash infer.sh` . 
+
 
 ----
 
