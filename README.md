@@ -6,6 +6,8 @@ you can try directly replacing the core code files in the official repository, e
 
 > Finally, running it on single A100(80G), you can run `bash infer.sh` 
 
+----
+
 <p align="center">
     <img src="https://github.com/user-attachments/assets/28f2d612-bbd6-44a3-8795-833d05e9f05f" width="274" alt="NVIDIA Cosmos"/>
 </p>
